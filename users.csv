@@ -1,35 +1,0 @@
-login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-peng-zhihui,Ã§Â¨ÂÃ¦ÂÂ,HUAWEI RESEARCH,Shanghai,,,Ã©ÂÂÃ§ÂÂÃ©ÂÂ¢Ã©ÂÂÃ¤Â¾Â Ã¦ÂÂ¬Ã¤Â¾Â Ã£ÂÂ,59,80622,9,2015-06-22T04:59:39Z
-ruanyf,Ruan YiFeng,,"Shanghai, China",,,,72,79307,0,2011-07-10T01:07:17Z
-phodal,Fengda Huang,THOUGHTWORKS,"Shanghai / Hangzhou, China",,true,I'm digging holes.,367,20054,9,2010-11-08T11:46:51Z
-liyupi,Ã§Â¨ÂÃ¥ÂºÂÃ¥ÂÂÃ©Â±Â¼Ã§ÂÂ®,ÃÂ¼ÂÃÂ¨ÂÃÂ­Â¦ÃÂ¹Â ÃÂÂ¬ÃÂ¼ÂÃÂÂ·ÃÂÂÃÂ¨ÂÃÂºÂÃÂÂÃÂ±Â¼ÃÂÂ®ÃÂÂ,China Shanghai,,true,speak less do moreÃ¯Â¼ÂÃ¥ÂÂÃ¨ÂÂ¾Ã¨Â®Â¯Ã¥ÂÂ¨Ã¦Â ÂÃ¥Â¼ÂÃ¥ÂÂÃ¯Â¼ÂÃ§ÂÂ°Ã§Â§ÂÃ¦ÂÂÃ¥ÂÂ¬Ã¥ÂÂ¸Ã¥ÂÂÃ¥Â§ÂÃ¤ÂºÂº,82,17368,29,2017-02-26T08:44:22Z
-stormzhang,stormzhang,"BOOHEE, INC.","Shanghai, China",,,Ã¥Â¾Â®Ã¤Â¿Â¡Ã¥ÂÂ¬Ã¤Â¼ÂÃ¥ÂÂ·Ã¯Â¼Âstormzhang,5,15880,91,2012-09-03T02:58:11Z
-Ovilia,Wenli Zhang,,"Shanghai, China",,,"GitHub Star; Apache Member; Apache ECharts VP;
-Passionate Dataviz Developer & Creative Designer",65,15562,247,2011-05-10T12:43:24Z
-astaxie,astaxie,JIMENGIO,"Shanghai, China",,true,Write the testable code,79,14993,21,2010-03-31T06:07:58Z
-bailicangdu,cangdu,JD.COM,"Shanghai, China",,true,Ã¦Â°Â´Ã¥ÂÂÃ¦Â½ÂÃ¦Â»ÂÃ¦ÂÂ´Ã¦ÂÂ¹Ã¥Â¥Â½Ã¯Â¼ÂÃ¥Â±Â±Ã¨ÂÂ²Ã§Â©ÂºÃ¨ÂÂÃ©ÂÂ¨Ã¤ÂºÂ¦Ã¥Â¥ÂÃ£ÂÂ,22,13692,20,2016-07-05T09:14:13Z
-PanJiaChen,Ã¨ÂÂ±Ã¨Â£Â¤Ã¨Â¡Â©,BYTEDANCE,"Shanghai, China",,,,72,13074,84,2014-07-10T06:45:26Z
-YunaiV,Ã¨ÂÂÃ©ÂÂÃ¦ÂºÂÃ§Â Â,ÃÂÂÃÂÂÃÂºÂÃÂ ÂÃÂ¼ÂÃÂºÂ¯ÃÂºÂÃÂ ÂÃÂ§Â£ÃÂÂÃÂÂ¬ÃÂ¼ÂÃÂÂ·,"Shanghai, China",,,Ã¦ÂÂ¿Ã¥ÂÂÃ§ÂÂÃ§Â¼ÂÃ§Â ÂÃ¯Â¼ÂÃ¥Â¦ÂÃ¤Â¸ÂÃ§ÂÂÃ¨ÂÂÃ¥ÂÂÃ¯Â¼Â,83,11699,74,2012-07-21T02:30:00Z
-sofish,Ã¥Â°ÂÃ©Â±Â¼,,Shanghai China,,true,,43,10485,19,2009-11-14T10:24:24Z
-dyc87112,Ã§Â¨ÂÃ¥ÂºÂÃ§ÂÂ¿DD,,"Shanghai, China",,,"Dream big, work smart, deliver fast",61,9079,44,2013-01-26T15:49:12Z
-skyzh,Alex Chi Z.,NEONDATABASE,"Pittsburgh, PA, USA Ã¢ÂÂ Shanghai, China",,,"building database systems @neondatabase, previously @cmu-db; a bubble tea every day makes me happy right away",112,7245,762,2013-04-19T05:40:46Z
-nihui,,,Shanghai,,,Ã£ÂÂÃ£ÂÂ¸Ã£ÂÂÃ£ÂÂ°Ã£ÂÂÃ£ÂÂ­,180,7178,36,2009-12-22T15:59:35Z
-oldratlee,Ã¦ÂÂÃ©Â¼Â,PDD @TAOBAO @ALIYUN @ALIBABA,"Shanghai Ã¢ÂÂ Hangzhou Zhejiang, China",,,"Nobody is perfect, Mmm~ I'm nobody and a new dad! Ã¢ÂÂÃ¯Â¸ÂJavaÃ°ÂÂÂ©@KotlinÃ°ÂÂÂ@pythonÃ°ÂÂÂShellÃ°ÂÂÂ@vimÃ°ÂÂ¦Â«@GoLang Ã°ÂÂ¦ÂJS Ã°ÂÂÂC# Ã°ÂÂ¦Â@rust-lang Ã°ÂÂÂ C++ Ã°ÂÂÂ@scala Ã°ÂÂÂ¥@clojureÃ°ÂÂÂ@Erlang",48,6975,687,2011-09-20T02:40:45Z
-xufei,xufei,,"Shanghai, China",,,,40,6810,105,2012-11-05T08:43:05Z
-amusi,Amusi,CVER,"Shanghai, China",,,Ã¦Â¬Â¢Ã¨Â¿ÂÃ¥ÂÂ³Ã¦Â³Â¨Ã¥Â¾Â®Ã¤Â¿Â¡Ã¥ÂÂ¬Ã¤Â¼ÂÃ¥ÂÂ·: CVerÃ¯Â¼ÂÃ¤ÂºÂÃ¨Â§Â£Ã¦ÂÂÃ¦ÂÂ°Ã¦ÂÂÃ¥ÂÂÃ¦Â²Â¿Ã§ÂÂAI/CVÃ¦ÂÂÃ¦ÂÂ¯,255,6771,539,2016-09-26T01:28:32Z
-TommyZihao,Tommy in Tongji,TONGJI UNIVERSITY,Shanghai,,,"BÃ§Â«ÂUPÃ¤Â¸Â»Ã¢ÂÂÃ¥ÂÂÃ¦ÂµÂÃ¥Â­ÂÃ¨Â±ÂªÃ¥ÂÂÃ¢ÂÂ
-https://space.bilibili.com/1900783
-Ã¤Â»Â£Ã¨Â¡Â¨Ã¤Â½ÂÃ¯Â¼ÂÃ§Â²Â¾Ã¨Â¯Â»AIÃ§Â»ÂÃ¥ÂÂ¸Ã¨Â®ÂºÃ¦ÂÂÃ£ÂÂÃ§Â¼ÂÃ§Â¨ÂÃ¥Â¥ÂÃ¥Â¦ÂÃ¥Â¤ÂÃ£ÂÂÃ¦ÂÂ¯Ã¥ÂÂ¦Ã§Â¦ÂCS231NÃ¤Â¸Â­Ã¦ÂÂÃ§Â²Â¾Ã¨Â®Â²Ã£ÂÂ",129,6276,53,2018-02-11T05:13:21Z
-xuxueli,Ã¨Â®Â¸Ã©ÂÂªÃ©ÂÂ,ÃÂ¤Â§ÃÂ¼ÂÃÂÂ¹ÃÂ¯Â,"Shanghai, China",,true,,12,5608,2,2015-01-21T15:49:51Z
-wx-chevalier,Ã§ÂÂÃ¤Â¸ÂÃ©ÂÂÃ¦ÂÂÃ§ÂÂ,UNIONTECH,Shanghai,,true,"Ã¦ÂÂÃ§ÂÂÃ§ÂÂÃ§ÂÂ¥Ã¨Â¯ÂÃ¥ÂºÂÃ¯Â¼ÂZero Notes | Ã©ÂÂ¶Ã¤Â¸ÂÃ¦ÂÂ¾Ã¨Â®Â°Ã¯Â¼ÂÃ¯Â¼ÂÃ¥Â¯Â¹Ã¦ÂÂÃ¤Â»Â·Ã¥ÂÂ¼Ã§ÂÂÃ¥ÂÂÃ¥Â®Â¹Ã©ÂÂÃ¦ÂÂ©Ã¦ÂÂ§Ã¦Â²ÂÃ¦Â·ÂÃ¯Â¼ÂÃ¨Â®Â©Ã©ÂÂÃ¨Â¯Â»Ã¨ÂÂÃ¥ÂÂ¨Ã¤Â¸ÂÃ§Â«ÂÃ¥ÂÂÃ¦ÂÂ´Ã¥Â¥Â½Ã¥ÂÂ°Ã©ÂÂÃ¨Â¯Â» Ã°ÂÂÂ« Just Coder, Travel in the Galaxy Ã°ÂÂÂ«Ã¥ÂÂÃ¥Â®Â¢/Ã¥ÂÂ¬Ã¤Â¼ÂÃ¥ÂÂ·Ã¯Â¼ÂÃ¦ÂÂÃ§ÂÂÃ§ÂÂÃ¦ÂÂÃ¦ÂÂ¯Ã¤Â¹ÂÃ¨Â·Â¯",149,5218,283,2013-10-29T11:12:53Z
-krahets,Yudong Jin,SJTU,Shanghai,,,3D Vision Researcher. Interested in DSA.,10,5126,100,2017-04-07T03:50:52Z
-teddysun,Teddysun,,Shanghai,,,"Programmer, Developer",8,4908,6,2012-02-26T05:25:51Z
-hellokaton,Ã¨Â¦ÂÃ£ÂÂÃ£ÂÂ,LETS-BLADE,"ShangHai, China",,,,95,4878,81,2013-03-13T01:54:30Z
-espressif,Espressif Systems,,"Shanghai, China",,,,247,4860,0,2014-10-30T09:42:08Z
-madeye,Max Lv,NVIDIA,"Shanghai, China",,true,Manager of Architecture at NVIDIA,39,4682,30,2011-02-20T05:08:06Z
-hax,HE Shi-Jun,,"Shanghai, China",,,,186,4654,41,2009-11-30T11:33:44Z
-pissang,Yi Shen,,"Shanghai, China",,,"WebGL / Front End / Data Visualization / Generative Art Fan / ZJUer
-",95,4558,28,2011-06-10T06:27:17Z
-kesenhoo,HuKai,TENCENT INC.,"Shanghai , China",,,,22,4336,37,2012-02-21T07:57:52Z
-jmzeng1314,jimmy_zeng,LILLY-CHINA,Shanghai-China,,true,,67,3941,84,2015-09-29T05:45:47Z
-yiminghe,yiminghe,COUPANG,"China, Shanghai",,,,82,3783,97,2010-02-10T08:01:28Z
